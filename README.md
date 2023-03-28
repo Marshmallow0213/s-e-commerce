@@ -5,4 +5,5 @@ JavaScript 的事件處理函式的原理是什麼?
 點擊子元素先父元素觸發，然後子層內部執行最後回到父層
 
 submit 事件和 click 事件有什麼差別?
-submit是form表單裡送出只在form能作用，click是按鈕點擊
+當使用者提交表單時會觸發submit
+當使用者在元素上按一下滑鼠按鍵會觸發click
